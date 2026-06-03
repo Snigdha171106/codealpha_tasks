@@ -1,0 +1,24 @@
+Bot: Hello! Welcome to the FAQ Chatbot.
+Ask me about orders, shipping, refunds, payments, accounts, or support.
+
+
+[07:51 AM]
+You: how can i track my order?
+Bot: You can track your order using the tracking link sent to your email.
+
+[07:51 AM]
+You: can you explain about the refunds
+Bot: Refunds are processed after successful return verification.
+
+[07:51 AM]
+You: how can i verify my account?
+Bot: Click on Sign Up and fill in the required details.
+
+[07:52 AM]
+You: but i forgot my password...!
+Bot: Click on 'Forgot Password' on the login page and follow the instructions.
+
+[07:52 AM]
+You: how do i contact the seller?
+Bot: Seller contact options are available on the product page.
+
