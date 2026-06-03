@@ -147,7 +147,7 @@ This project demonstrates the implementation of real-time object detection and t
 
 **Snigdha Dashrath Kandikatla**
 
-This project helped me explore real-time computer vision applications and gain hands-on experience with object detection and tracking using YOLOv8s and OpenCV.
+This project helped me explore real-time computer vision applications and gain hands-on experience with object detection and tracking using YOLOv8 and OpenCV.
 
 **GitHub:** [https://github.com/Snigdha171106]
 
